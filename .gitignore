@@ -1,0 +1,19 @@
+# Credenciales privadas
+.env
+.env.*
+!.env.example
+
+# Entorno virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Archivos temporales
+*.log
+
+# Editor
+.vscode/
