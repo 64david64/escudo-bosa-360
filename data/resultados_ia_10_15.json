@@ -1,0 +1,53 @@
+[
+  {
+    "id": "N01",
+    "expected": "sin_indicios",
+    "ai_risk": "BAJO",
+    "final_risk": "EVIDENCIA_INSUFICIENTE",
+    "decision": "abstencion",
+    "seconds": 2.74,
+    "indicators": []
+  },
+  {
+    "id": "N02",
+    "expected": "sin_indicios",
+    "ai_risk": "BAJO",
+    "final_risk": "EVIDENCIA_INSUFICIENTE",
+    "decision": "abstencion",
+    "seconds": 2.65,
+    "indicators": []
+  },
+  {
+    "id": "N03",
+    "expected": "sin_indicios",
+    "ai_risk": "BAJO",
+    "final_risk": "EVIDENCIA_INSUFICIENTE",
+    "decision": "abstencion",
+    "seconds": 2.66,
+    "indicators": []
+  },
+  {
+    "id": "N04",
+    "expected": "sin_indicios",
+    "ai_risk": "BAJO",
+    "final_risk": "EVIDENCIA_INSUFICIENTE",
+    "decision": "abstencion",
+    "seconds": 2.56,
+    "indicators": [
+      "El texto proporcionado corresponde a una advertencia general de seguridad y no contiene solicitudes sospechosas, enlaces ni exigencias de pago."
+    ]
+  },
+  {
+    "id": "N05",
+    "expected": "sin_indicios",
+    "ai_risk": "BAJO",
+    "final_risk": "EVIDENCIA_INSUFICIENTE",
+    "decision": "abstencion",
+    "seconds": 2.81,
+    "indicators": [
+      "No se observan solicitudes de datos personales, contraseñas o códigos.",
+      "No hay exigencias de pagos anticipados o transferencias.",
+      "No contiene enlaces sospechosos ni amenazas de suspensión."
+    ]
+  }
+]

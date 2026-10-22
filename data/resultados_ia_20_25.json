@@ -1,0 +1,63 @@
+[
+  {
+    "id": "A01",
+    "expected": "ambiguo",
+    "ai_risk": "MEDIO",
+    "final_risk": "MEDIO",
+    "decision": "alerta",
+    "seconds": 2.73,
+    "indicators": [
+      "Presión para actuar hoy",
+      "Solicitud de verificación de cuenta sin especificar la entidad",
+      "Mensaje ambiguo que pide esperar más instrucciones"
+    ]
+  },
+  {
+    "id": "A02",
+    "expected": "ambiguo",
+    "ai_risk": "EVIDENCIA_INSUFICIENTE",
+    "final_risk": "EVIDENCIA_INSUFICIENTE",
+    "decision": "abstencion",
+    "seconds": 2.52,
+    "indicators": [
+      "Mensaje genérico sin detalles específicos sobre la supuesta comunicación",
+      "Ausencia de enlaces o números de contacto en el texto analizado"
+    ]
+  },
+  {
+    "id": "A03",
+    "expected": "ambiguo",
+    "ai_risk": "BAJO",
+    "final_risk": "EVIDENCIA_INSUFICIENTE",
+    "decision": "abstencion",
+    "seconds": 2.43,
+    "indicators": [
+      "Mensaje genérico sobre un paquete",
+      "Ausencia de enlaces o solicitudes de dinero en este fragmento"
+    ]
+  },
+  {
+    "id": "A04",
+    "expected": "ambiguo",
+    "ai_risk": "EVIDENCIA_INSUFICIENTE",
+    "final_risk": "EVIDENCIA_INSUFICIENTE",
+    "decision": "abstencion",
+    "seconds": 2.89,
+    "indicators": [
+      "Solicitud genérica de documentos sin especificar la entidad ni el propósito",
+      "Ausencia de contexto o canales de verificación oficiales en la comunicación"
+    ]
+  },
+  {
+    "id": "A05",
+    "expected": "ambiguo",
+    "ai_risk": "MEDIO",
+    "final_risk": "MEDIO",
+    "decision": "alerta",
+    "seconds": 2.64,
+    "indicators": [
+      "Promesa de un beneficio o dinero inesperado",
+      "Invitación a contactar a un remitente desconocido"
+    ]
+  }
+]

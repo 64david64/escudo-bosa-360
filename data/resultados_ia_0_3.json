@@ -1,0 +1,42 @@
+[
+  {
+    "id": "F01",
+    "expected": "fraude",
+    "ai_risk": "ALTO",
+    "final_risk": "ALTO",
+    "decision": "alerta",
+    "seconds": 3.06,
+    "indicators": [
+      "Presión para actuar inmediatamente mediante la palabra URGENTE",
+      "Amenaza de bloqueo de cuenta bancaria",
+      "Solicitud de confirmación de contraseña",
+      "Uso de un enlace sospechoso que no corresponde al dominio oficial de una entidad bancaria real"
+    ]
+  },
+  {
+    "id": "F02",
+    "expected": "fraude",
+    "ai_risk": "ALTO",
+    "final_risk": "ALTO",
+    "decision": "alerta",
+    "seconds": 24.62,
+    "indicators": [
+      "Promete dinero gratis o beneficios inesperados",
+      "Solicita un pago anticipado para reclamar un supuesto premio o subsidio",
+      "Usa tácticas de falsa fortuna para captar la atención"
+    ]
+  },
+  {
+    "id": "F03",
+    "expected": "fraude",
+    "ai_risk": "ALTO",
+    "final_risk": "ALTO",
+    "decision": "alerta",
+    "seconds": 23.98,
+    "indicators": [
+      "Solicitud de pagos anticipados",
+      "Falsas ofertas laborales",
+      "Promesas de empleo fácil sin proceso claro"
+    ]
+  }
+]

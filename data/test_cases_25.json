@@ -1,0 +1,128 @@
+
+[
+  {
+    "id": "F01",
+    "expected": "fraude",
+    "text": "URGENTE: Su cuenta bancaria fue bloqueada. Entre a https://banco-seguridad.example y confirme su contraseña."
+  },
+  {
+    "id": "F02",
+    "expected": "fraude",
+    "text": "Felicidades, ganó un subsidio de $800.000. Pague $35.000 de activación para recibirlo."
+  },
+  {
+    "id": "F03",
+    "expected": "fraude",
+    "text": "Fue seleccionado para trabajar desde casa. Consigne $90.000 para activar su contrato laboral."
+  },
+  {
+    "id": "F04",
+    "expected": "fraude",
+    "text": "Hola mamá, cambié de número. Estoy en una emergencia. Envíame $300.000 inmediatamente a esta cuenta."
+  },
+  {
+    "id": "F05",
+    "expected": "fraude",
+    "text": "Su paquete está retenido. Ingrese a https://entrega-pendiente.example y pague una tarifa para recibirlo."
+  },
+  {
+    "id": "F06",
+    "expected": "fraude",
+    "text": "Somos soporte de su banco. Envíenos el código de seis dígitos que acaba de recibir para evitar un bloqueo."
+  },
+  {
+    "id": "F07",
+    "expected": "fraude",
+    "text": "Apartamento disponible a mitad de precio. Envíe el depósito inmediatamente. No es posible visitar el inmueble antes del pago."
+  },
+  {
+    "id": "F08",
+    "expected": "fraude",
+    "text": "Invierta $100.000 y reciba $500.000 mañana. Ganancia totalmente garantizada, sin ningún riesgo."
+  },
+  {
+    "id": "F09",
+    "expected": "fraude",
+    "text": "Su EPS suspenderá la atención médica hoy. Confirme sus datos bancarios en https://salud-verifica.example."
+  },
+  {
+    "id": "F10",
+    "expected": "fraude",
+    "text": "Su multa será duplicada en una hora. Escanee el código QR adjunto y pague sin verificar con la autoridad."
+  },
+  {
+    "id": "N01",
+    "expected": "sin_indicios",
+    "text": "Buenos días, confirmamos la reunión del equipo mañana a las 9:00 a. m."
+  },
+  {
+    "id": "N02",
+    "expected": "sin_indicios",
+    "text": "La clase de matemáticas será en el salón 204. Recuerden llevar calculadora."
+  },
+  {
+    "id": "N03",
+    "expected": "sin_indicios",
+    "text": "Hola, adjunto el acta de la última reunión para su revisión."
+  },
+  {
+    "id": "N04",
+    "expected": "sin_indicios",
+    "text": "Recomendación de seguridad: nunca compartas tus contraseñas ni códigos de verificación."
+  },
+  {
+    "id": "N05",
+    "expected": "sin_indicios",
+    "text": "Recordatorio: tienes una cita odontológica mañana a las 10:30 a. m."
+  },
+  {
+    "id": "N06",
+    "expected": "sin_indicios",
+    "text": "La biblioteca estará cerrada el lunes por mantenimiento."
+  },
+  {
+    "id": "N07",
+    "expected": "sin_indicios",
+    "text": "Gracias por tu compra. Tu pedido fue registrado correctamente. Conserva tu comprobante."
+  },
+  {
+    "id": "N08",
+    "expected": "sin_indicios",
+    "text": "La actividad comunitaria del sábado comenzará a las 8 de la mañana."
+  },
+  {
+    "id": "N09",
+    "expected": "sin_indicios",
+    "text": "Recuerda actualizar las tareas asignadas antes de nuestra reunión semanal."
+  },
+  {
+    "id": "N10",
+    "expected": "sin_indicios",
+    "text": "Hola, ¿puedes confirmar si participarás en la jornada de voluntariado del viernes?"
+  },
+  {
+    "id": "A01",
+    "expected": "ambiguo",
+    "text": "Necesitamos verificar tu cuenta hoy. Espera más instrucciones."
+  },
+  {
+    "id": "A02",
+    "expected": "ambiguo",
+    "text": "Tenemos una comunicación importante para ti. Llámanos cuando puedas."
+  },
+  {
+    "id": "A03",
+    "expected": "ambiguo",
+    "text": "Tu paquete presenta una novedad. Pronto recibirás información."
+  },
+  {
+    "id": "A04",
+    "expected": "ambiguo",
+    "text": "Necesitamos que nos envíes unos documentos para completar el proceso."
+  },
+  {
+    "id": "A05",
+    "expected": "ambiguo",
+    "text": "Tienes un giro disponible. Contacta al remitente para conocer los detalles."
+  }
+]

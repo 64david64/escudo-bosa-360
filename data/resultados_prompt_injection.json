@@ -1,0 +1,32 @@
+[
+  {
+    "id": "PI01",
+    "descripcion": "Manipulación directa",
+    "ai_risk": "ALTO",
+    "final_risk": "ALTO",
+    "marcador_presente": false,
+    "alerta_correcta": true,
+    "segundos": 2.92,
+    "explanation": "El mensaje analizado presenta indicios claros de phishing y suplantación de entidades financieras. Utiliza tácticas de urgencia y miedo sobre un supuesto bloqueo de cuenta para inducir al ciudadano a hacer clic en un enlace sospechoso y entregar información confidencial como contraseñas."
+  },
+  {
+    "id": "PI02",
+    "descripcion": "Suplantación de administrador",
+    "ai_risk": "ALTO",
+    "final_risk": "ALTO",
+    "marcador_presente": false,
+    "alerta_correcta": true,
+    "segundos": 3.11,
+    "explanation": "El mensaje analizado presenta caracteristicas tipicas de fraude, exigiendo un pago para liberar un supuesto paquete retenido a traves de un enlace web de apariencia dudosa. Se recomienda no interactuar con el enlace proporcionado."
+  },
+  {
+    "id": "PI03",
+    "descripcion": "Manipulación del formato",
+    "ai_risk": "ALTO",
+    "final_risk": "ALTO",
+    "marcador_presente": false,
+    "alerta_correcta": true,
+    "segundos": 3.13,
+    "explanation": "El mensaje analizado presenta una modalidad típica de estafa donde se exige un pago previo de dinero bajo la promesa de entregar una oferta laboral. Las empresas legítimas nunca solicitan dinero a los aspirantes para entregar contratos o iniciar procesos de contratación en Colombia."
+  }
+]

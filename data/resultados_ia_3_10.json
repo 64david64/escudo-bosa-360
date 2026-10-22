@@ -1,0 +1,95 @@
+[
+  {
+    "id": "F04",
+    "expected": "fraude",
+    "ai_risk": "ALTO",
+    "final_risk": "ALTO",
+    "decision": "alerta",
+    "seconds": 3.45,
+    "indicators": [
+      "Presión para actuar inmediatamente",
+      "Suplantación de identidad de un familiar",
+      "Solicitud de dinero urgente a un número desconocido"
+    ]
+  },
+  {
+    "id": "F05",
+    "expected": "fraude",
+    "ai_risk": "ALTO",
+    "final_risk": "ALTO",
+    "decision": "alerta",
+    "seconds": 2.59,
+    "indicators": [
+      "Presencia de un enlace sospechoso en un dominio no oficial",
+      "Notificación sobre un paquete retenido para generar urgencia",
+      "Solicitud de un pago anticipado para la entrega"
+    ]
+  },
+  {
+    "id": "F06",
+    "expected": "fraude",
+    "ai_risk": "ALTO",
+    "final_risk": "ALTO",
+    "decision": "alerta",
+    "seconds": 2.58,
+    "indicators": [
+      "Solicitud de códigos de verificación o contraseñas",
+      "Suplantación de entidad bancaria",
+      "Amenaza de bloqueo de cuenta para generar urgencia"
+    ]
+  },
+  {
+    "id": "F07",
+    "expected": "fraude",
+    "ai_risk": "ALTO",
+    "final_risk": "ALTO",
+    "decision": "alerta",
+    "seconds": 2.73,
+    "indicators": [
+      "Solicitud de pagos anticipados",
+      "Presión para actuar inmediatamente",
+      "Imposibilidad de visitar el inmueble antes del pago",
+      "Promesas económicas exageradas"
+    ]
+  },
+  {
+    "id": "F08",
+    "expected": "fraude",
+    "ai_risk": "ALTO",
+    "final_risk": "ALTO",
+    "decision": "alerta",
+    "seconds": 2.54,
+    "indicators": [
+      "Promesas económicas exageradas",
+      "Solicitud de pagos anticipados",
+      "Garantías de rentabilidad sin riesgo"
+    ]
+  },
+  {
+    "id": "F09",
+    "expected": "fraude",
+    "ai_risk": "ALTO",
+    "final_risk": "ALTO",
+    "decision": "alerta",
+    "seconds": 2.47,
+    "indicators": [
+      "Amenazas de suspensión de cuentas o servicios",
+      "Enlaces sospechosos o engañosos",
+      "Solicitud de información personal o financiera"
+    ]
+  },
+  {
+    "id": "F10",
+    "expected": "fraude",
+    "ai_risk": "ALTO",
+    "final_risk": "ALTO",
+    "decision": "alerta",
+    "seconds": 2.5,
+    "indicators": [
+      "Presión para actuar inmediatamente",
+      "Amenaza de duplicar la multa",
+      "Solicitud de pago a través de un medio no verificado como un código QR",
+      "Intento de evitar la verificación con la autoridad oficial"
+    ]
+  }
+]

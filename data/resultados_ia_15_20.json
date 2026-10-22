@@ -1,0 +1,49 @@
+[
+  {
+    "id": "N06",
+    "expected": "sin_indicios",
+    "ai_risk": "EVIDENCIA_INSUFICIENTE",
+    "final_risk": "EVIDENCIA_INSUFICIENTE",
+    "decision": "abstencion",
+    "seconds": 2.59,
+    "indicators": []
+  },
+  {
+    "id": "N07",
+    "expected": "sin_indicios",
+    "ai_risk": "BAJO",
+    "final_risk": "EVIDENCIA_INSUFICIENTE",
+    "decision": "abstencion",
+    "seconds": 2.91,
+    "indicators": []
+  },
+  {
+    "id": "N08",
+    "expected": "sin_indicios",
+    "ai_risk": "BAJO",
+    "final_risk": "EVIDENCIA_INSUFICIENTE",
+    "decision": "abstencion",
+    "seconds": 2.13,
+    "indicators": []
+  },
+  {
+    "id": "N09",
+    "expected": "sin_indicios",
+    "ai_risk": "BAJO",
+    "final_risk": "EVIDENCIA_INSUFICIENTE",
+    "decision": "abstencion",
+    "seconds": 2.38,
+    "indicators": []
+  },
+  {
+    "id": "N10",
+    "expected": "sin_indicios",
+    "ai_risk": "BAJO",
+    "final_risk": "EVIDENCIA_INSUFICIENTE",
+    "decision": "abstencion",
+    "seconds": 2.36,
+    "indicators": [
+      "Consulta inicial genérica sin enlaces ni solicitudes de dinero o datos personales."
+    ]
+  }
+]
